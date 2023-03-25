@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "descricao": "Sabonete",
+        "quantidade": 3
+    },
+    {
+        "_id": 2,
+        "descricao": "Laranja",
+        "quantidade": 4
+    },
+    {
+        "_id": 3,
+        "descricao": "Bolacha",
+        "quantidade": 3
+    },
+    {
+        "_id": 4,
+        "descricao": "Bolacha",
+        "quantidade": 3
+    },
+    {
+        "_id": 5,
+        "descricao": "Cerveja",
+        "quantidade": 12
+    },
+    {
+        "_id": 6,
+        "descricao": "Banana",
+        "quantidade": 4
+    }
+]
